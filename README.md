@@ -18,6 +18,13 @@
     </a>
 </div>
 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,github,html,java,js,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
 
 
 
