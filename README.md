@@ -23,6 +23,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<h1 align="center">Technologies That I Know👨🏻‍💻 </h1>
 
 <!--tech stack icons-->
 <p align="center">
