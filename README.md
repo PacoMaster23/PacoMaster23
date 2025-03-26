@@ -14,6 +14,13 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider.
 - ❤ Contributing to Open Source.
+
+- ### 📚 Hobbies
+
+Apart from coding, I enjoy:
+
+- Writing and expressing my thoughts through words.
+- Reading books and expanding my knowledge.
 <!--End Intro-->
 
 <!--h1 without bottom border-->
@@ -35,7 +42,41 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
+## :star2: Github Status
+<div align="center">
+<table>
+    <tr>
+        <!-- GithubStatus -->
+        <td>
+            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
+            </a>
+            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
+            </a>
+        </td>
+        <!-- GithubStatus -->
+        <td>
+            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="PacoMaster23's Language stats" />
+            </a>
+            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="PacoMaster23's Language stats" />
+            </a>
+        </td>
+    </tr>
+</table>
+</div>
 
+
+
+
+
+
+
+
+
+<p align = "center">  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/> </p>
 
 
 
