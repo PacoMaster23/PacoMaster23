@@ -6,6 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="[https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif](https://tenor.com/es-MX/view/typing-on-computer-mark-grayson-steven-yeun-invincible-typing-on-latop-gif-1336246902025279911)" >
 
+<div class="tenor-gif-embed" data-postid="1336246902025279911" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-on-computer-mark-grayson-steven-yeun-invincible-typing-on-latop-gif-1336246902025279911">Typing On Computer Mark Grayson Sticker</a>from <a href="https://tenor.com/search/typing+on+computer-stickers">Typing On Computer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br>🌱 I’m currently learning **WEB Development Full-Stack** 
 <!--Start Intro-->               
