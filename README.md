@@ -70,7 +70,7 @@ Apart from coding, I enjoy:
 <h1 align="center">Connect with me:</h1>
 <br/> 
 <p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnadev_v_" width="40" style="height: 4rem /></a>
+<a href="https://x.com/pacomasteer_23?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnadev_v_" width="40" style="height: 4rem /></a>
 <a href="https://www.linkedin.com/in/francisco-alfonso-batalla-barrios-16a8a9340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadevv" width="40" style="height: 4rem" /></a>
 <a href="https://instagram.com/Pacxomastxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev_v" width="40" style="height: 4rem"/></a>
 </p>  
