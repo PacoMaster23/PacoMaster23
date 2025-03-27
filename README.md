@@ -39,7 +39,7 @@ Apart from coding, I enjoy:
 <!  tools stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,gmail,twitter,ai,linkedin,notion,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,gmail,twitter,ai,linkedin,notion,vscode,figma" />
   </a>
 </p>
 
