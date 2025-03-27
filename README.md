@@ -67,18 +67,17 @@ Apart from coding, I enjoy:
 </table>
 </div>
 
+<!--icons and links-->
+
 <h1 align="center">Connect with me:</h1>
 <br/> 
 <p align="center">
-<a href="https://x.com/pacomasteer_23?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnadev_v_" width="40" style="height: 4rem /></a>
-<a href="https://www.linkedin.com/in/francisco-alfonso-batalla-barrios-16a8a9340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadevv" width="40" style="height: 4rem" /></a>
-<a href="https://instagram.com/Pacxomastxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev_v" width="40" style="height: 4rem"/></a>
-</p>  
-<br/> 
-
-
-
-
+<a href="https://www.linkedin.com/in/francisco-alfonso-batalla-barrios-16a8a9340?utm_source=share" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/pacomasteer_23?s=21" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/Pacxomastxer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/pacomaster23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
 
 
 
