@@ -8,7 +8,7 @@
 
 <br>🌱 I’m currently learning **WEB Development Full-Stack** 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for JavaScript, HTML, CSS, Python, React.js, Node.js, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for JavaScript, HTML, CSS, Python, Node.js, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
