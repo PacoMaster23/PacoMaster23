@@ -29,7 +29,7 @@ Apart from coding, I enjoy:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,cs,dotnet,jquery,js,sql,postman,regex,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,cs,dotnet,jquery,js,postman,regex,visualstudio,vscode" />
   </a>
 </p>
 <br>
