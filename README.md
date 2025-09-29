@@ -44,30 +44,8 @@ Apart from coding, I enjoy:
 </p>
 
 ## :star2: Github Status
-<div align="center">
-<table>
-    <tr>
-        <!-- GithubStatus -->
-        <td>
-            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PacoMaster23&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PacoMaster23&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-        </td>
-        <!-- GithubStatus -->
-        <td>
-            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PacoMaster23&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="PacoMaster23's Language stats" />
-            </a>
-            <a href="https://github.com/PacoMaster23/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PacoMaster23&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="PacoMaster23's Language stats" />
-            </a>
-        </td>
-    </tr>
-</table>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PacoMaster23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PacoMaster23&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <!--icons and links-->
 
