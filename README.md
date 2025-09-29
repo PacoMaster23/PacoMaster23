@@ -29,7 +29,8 @@ Apart from coding, I enjoy:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,bootstrap,cs,dotnet,angular,jquery,js,postman,regex,npm,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git, github, bash, html, css, bootstrap, javascript, jquery, htmx, angular, cs, dotnet, nodejs, npm, regex, postman, visual studio, vscode
+" />
   </a>
 </p>
 <br>
