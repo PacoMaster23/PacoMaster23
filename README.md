@@ -17,9 +17,6 @@
   <li>Orientado a resolver problemas reales con soluciones eficientes</li>
 </ul>
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider.
-- ❤ Contributing to Open Source.
 
 - ### 📚 Hobbies
 
