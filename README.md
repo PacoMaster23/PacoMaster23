@@ -68,7 +68,7 @@ Más allá del código:
 <br><br><br><br><br>
 <!--icons and links-->
 
-<h1 align="center">Connect with me:</h1>
+ <!--<h1 align="center">Connect with me:</h1>
 <br/> 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-alfonso-batalla-barrios-16a8a9340?utm_source=share" target="_blank">
@@ -84,7 +84,7 @@ Más allá del código:
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
 </p>
-
+-->
 
 
 
