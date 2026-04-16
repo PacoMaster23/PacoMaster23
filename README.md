@@ -37,7 +37,7 @@ Más allá del código:
 <!--End Intro-->
 
 <!--h1 without bottom border-->
-<h1 align="center">Technologies That I Know👨🏻‍💻 </h1>
+<h1 align="center">Tecnologias que conozco👨🏻‍💻 </h1>
 
 <!--tech stack icons-->
 <p align="center">
@@ -48,7 +48,7 @@ Más allá del código:
 <br>
 
 <!--h1 without bottom border-->
-<h1 align="center">Tools That I Know 💡 </h1>
+<h1 align="center">Herramientas que conozco💡 </h1>
 <!  tools stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
