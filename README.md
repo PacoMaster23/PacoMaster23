@@ -37,7 +37,7 @@ Más allá del código:
 <!--End Intro-->
 
 <!--h1 without bottom border-->
-<h1 align="center">Tecnologias que conozco👨🏻‍💻 </h1>
+<h1 align="center">Tecnologias que domino y conozco👨🏻‍💻 </h1>
 
 <!--tech stack icons-->
 <p align="center">
