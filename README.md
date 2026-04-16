@@ -27,8 +27,6 @@ Más allá del código:
 - Crecimiento personal y profesional
 
 
-<br/>
-
 - ### 🌍 Intereses
 <ul>
   <li>Desarrollo backend y arquitectura de APIs</li>
