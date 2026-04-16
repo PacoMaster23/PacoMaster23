@@ -12,7 +12,7 @@
 
 - ### ✨ Mentalidad :
 <ul>
-  <li>Aprendiz constante: siempre evolucionando técnicamente</li>
+  <li>Aprendiz constante, siempre evolucionando técnicamente</li>
   <li>Enfoque en buenas prácticas, arquitectura limpia y rendimiento</li>
   <li>Orientado a resolver problemas reales con soluciones eficientes</li>
 </ul>
@@ -25,6 +25,16 @@ Más allá del código:
 - Escritura y reflexión de ideas
 - Lectura y aprendizaje continuo
 - Crecimiento personal y profesional
+
+
+<br/>
+- ### 🌍 Intereses
+<ul>
+  <li>Desarrollo backend y arquitectura de APIs</li>
+  <li>Bases de datos y optimización de consultas</li>
+  <li>UX/UI y pensamiento de producto (Lean UX)</li>
+  <li>Desarrollo web moderno</li>
+</ul>
 <!--End Intro-->
 
 <!--h1 without bottom border-->
