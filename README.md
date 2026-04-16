@@ -28,6 +28,7 @@ Más allá del código:
 
 
 <br/>
+
 - ### 🌍 Intereses
 <ul>
   <li>Desarrollo backend y arquitectura de APIs</li>
