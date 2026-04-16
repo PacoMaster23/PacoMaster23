@@ -10,7 +10,7 @@
 <!--Start Intro-->               
 <p align="left">Soy un Desarrollador Full-Stack con sólida experiencia en el ecosistema de <strong>.NET (Framework y .NET Core) </strong>, enfocado en la construcción de APIs robustas con C# y el desarrollo de aplicaciones web escalables. Me interesa combinar backend sólido con UX/UI para crear soluciones funcionales, eficientes y centradas en el usuario.</p>
 
-✨ Mentalidad :
+- ### ✨ Mentalidad :
 <ul>
   <li>Aprendiz constante: siempre evolucionando técnicamente</li>
   <li>Enfoque en buenas prácticas, arquitectura limpia y rendimiento</li>
