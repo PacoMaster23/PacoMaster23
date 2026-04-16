@@ -8,7 +8,7 @@
 
 <br>🌱 **Desarrollador Full-Stack | Especialista en .NET & APIs | Entusiasta UX/UI** 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for JavaScript, HTML, CSS, Python, Node.js, REST API and Data Visualization. </p>
+<p align="left">Soy un Desarrollador Full-Stack con sólida experiencia en el ecosistema de <strong>.NET (Framework y .NET Core) </strong>, enfocado en la construcción de APIs robustas con C# y el desarrollo de aplicaciones web escalables. Me interesa combinar backend sólido con UX/UI para crear soluciones funcionales, eficientes y centradas en el usuario.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
