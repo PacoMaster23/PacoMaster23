@@ -17,10 +17,11 @@
 
 - ### 📚 Hobbies
 
-Apart from coding, I enjoy:
+Más allá del código:
 
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
+- Escritura y reflexión de ideas
+- Lectura y aprendizaje continuo
+- Crecimiento personal y profesional
 <!--End Intro-->
 
 <!--h1 without bottom border-->
