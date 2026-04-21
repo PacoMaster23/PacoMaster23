@@ -12,7 +12,7 @@
 
 - ### ✨ Mentalidad :
 <ul>
-  <li>Aprendiz constante, siempre evolucionando técnicamente</li>
+  <li>Aprendizaje constante, siempre evolucionando técnicamente</li>
   <li>Enfoque en buenas prácticas, arquitectura limpia y rendimiento</li>
   <li>Orientado a resolver problemas reales con soluciones eficientes</li>
 </ul>
